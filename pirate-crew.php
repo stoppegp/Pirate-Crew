@@ -45,7 +45,7 @@ if (!class_exists('Pirate_Crew')):
     class Pirate_Crew {
     
 	const version = '1.0.8';
-	const php_version = '5.6'; // Minimal erforderliche PHP-Version
+	const php_version = '5.4'; // Minimal erforderliche PHP-Version
 	const wp_version = '4.5'; // Minimal erforderliche WordPress-Version
 	
 	private $text_domain = 'pirate-crew';
